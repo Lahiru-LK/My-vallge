@@ -1,0 +1,31 @@
+
+
+	
+	body{background-image:url("backg.jpg") ;
+	background-repeat: no-repeat, repeat;
+	background-attachment:fixed;
+	background-size: 100% 100%;
+
+}
+
+     h1 {font-size: 155pt;
+          text-align: center;
+           font-family: 'Brush Script MT', cursive;
+          color: aliceblue;}
+    
+    p { font-size: 30Pt;
+        text-align: center;
+        color: aliceblue;
+        font-family: 'Brush Script MT', cursive;
+        
+    
+    }
+
+        th{
+            list-style-type: none;
+            margin: 0;
+             padding: 0;
+            width: 200px;
+            background-color: #f1f1f1;
+        }
+        
